@@ -1,0 +1,58 @@
+/* ../font/Verdana fonts (regular) */
+
+@font-face {
+	font-family: 'Verdana';
+	src: url('../font/Verdana/Verdana.eot');
+	src: local('Verdana'),
+		url('../font/Verdana/Verdana.eot?#iefix') format('embedded-opentype'),
+		url('../font/Verdana/Verdana.woff') format('woff'),
+		url('../font/Verdana/Verdana.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Georgia fonts */
+
+@font-face {
+	font-family: 'Georgia';
+	src: url('../font/Georgia/Georgia-BoldItalic.eot');
+	src: local('Georgia Bold Italic'), local('Georgia-BoldItalic'),
+		url('../font/Georgia/Georgia-BoldItalic.eot?#iefix') format('embedded-opentype'),
+		url('../font/Georgia/Georgia-BoldItalic.woff') format('woff'),
+		url('../font/Georgia/Georgia-BoldItalic.ttf') format('truetype');
+	font-weight: bold;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Georgia';
+	src: url('../font/Georgia/Georgia-Italic.eot');
+	src: local('Georgia Italic'), local('Georgia-Italic'),
+		url('../font/Georgia/Georgia-Italic.eot?#iefix') format('embedded-opentype'),
+		url('../font/Georgia/Georgia-Italic.woff') format('woff'),
+		url('../font/Georgia/Georgia-Italic.ttf') format('truetype');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Georgia';
+	src: url('../font/Georgia/Georgia-Bold.eot');
+	src: local('Georgia Bold'), local('Georgia-Bold'),
+		url('../font/Georgia/Georgia-Bold.eot?#iefix') format('embedded-opentype'),
+		url('../font/Georgia/Georgia-Bold.woff') format('woff'),
+		url('../font/Georgia/Georgia-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Georgia';
+	src: url('../font/Georgia/Georgia.eot');
+	src: local('Georgia'),
+		url('../font/Georgia/Georgia.eot?#iefix') format('embedded-opentype'),
+		url('../font/Georgia/Georgia.woff') format('woff'),
+		url('../font/Georgia/Georgia.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
